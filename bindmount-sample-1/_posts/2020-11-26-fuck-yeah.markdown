@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Fuck yeah"
+date:   2020-07-21 01:08:51 +0000
+categories: jekyll update
+---
+who's your daddy
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
